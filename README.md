@@ -1,4 +1,8 @@
+- Github Repo: https://github.com/rahman-razaq/private-token-workshop-token-template
+- program name: rahman_token.aleo
+- Deployment Id: at1e2fcps3vcharvxp34480h8w0cdhkkgxm52769pathd5hv3ywyy9qatwh3g
+- mint_public: at1c35j3k5rj4sax54htnkxm3puvdhcu29ypaayvkc6l5calsmlegrsreeyqy
+- mint_private: at1t8sekutncgl9fj3wnyhwv5qd62px4znt4rfahatarkgqsfl30v9s0vxjpg
+- transfer_public: at1g0dc7tzw3qxfla5xunxjhpy6jstcqn4n4n7r047l4yg2kzfpq59q4h649g
+- transfer_private: at1yc80na552qcxuu6p89dga3zr4vhpfre7zsjrf2nnahvh704peurqg8us7j
 
-# Compliant Private Tokens Workshop - Token Template
-
-This is the Leo project scaffolding for the Aleo compliant private tokens workshop.  For more information, head over to the [main repository](https://github.com/alex-aleo/private-token-workshop).
