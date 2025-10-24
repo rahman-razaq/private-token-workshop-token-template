@@ -1,5 +1,6 @@
 - Github Repo: https://github.com/rahman-razaq/private-token-workshop-token-template
 - program name: rahman_token.aleo
+- Deployment address: aleo1egrf9fs4hhfx9fz5ektuam696c60ed3x08skv6hah0g8w82dlcpsc6ql4x
 - Deployment Id: at1e2fcps3vcharvxp34480h8w0cdhkkgxm52769pathd5hv3ywyy9qatwh3g
 - mint_public: at1c35j3k5rj4sax54htnkxm3puvdhcu29ypaayvkc6l5calsmlegrsreeyqy
 - mint_private: at1t8sekutncgl9fj3wnyhwv5qd62px4znt4rfahatarkgqsfl30v9s0vxjpg
